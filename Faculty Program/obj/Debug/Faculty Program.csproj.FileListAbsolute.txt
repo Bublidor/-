@@ -1,0 +1,16 @@
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\bin\Debug\Faculty Program.exe.config
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\bin\Debug\Faculty Program.exe
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\bin\Debug\Faculty Program.pdb
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.csproj.AssemblyReference.cache
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\MainWindow.g.cs
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\App.g.cs
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program_MarkupCompile.cache
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program_MarkupCompile.lref
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\MainWindow.baml
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.g.resources
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty_Program.Properties.Resources.resources
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.csproj.GenerateResource.cache
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.csproj.CoreCompileInputs.cache
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.exe
+C:\Users\Ivanka\source\repos\Faculty Program\Faculty Program\obj\Debug\Faculty Program.pdb
